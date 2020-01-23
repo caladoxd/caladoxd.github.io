@@ -1,6 +1,6 @@
 ---
 title: "Kaggle Titanic Project"
-date: 2018
+date: 2018-01-28
 tags: [kaggle, titanic, data science]
 header:
   image: "/images/zakim.jpg"
@@ -18,7 +18,7 @@ Fonte: dados retirados do desastre do titanic, com informações coletadas sobre
 Após a análise dos dados para determinar as correlações, foi elaborado um modelo usando python para prever se um passageiro sobrevive ou não, baseado nos dados do banco de testes.
 
 
-[Código fonte](https://github.com/calado-titanic)
+[Código fonte](https://github.com/caladoxd/Kaggle-Titanic)
 
 
 Python code block:
