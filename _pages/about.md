@@ -5,6 +5,6 @@ header:
   image: "/images/zakim.jpg"
 ---
 
-I'm a senior data scientist who excels at data wrangling, machine learning, exploratory analysis, and data visualizations.
-
-Etc, etc, etc
+Bacharel em Ciência da Computação e técnico em eletromecânica. Experiência em gestão de empresas, supervisão, automação e Data Science.
+Conhecimento em R, Python, Java e JavaScript, APIs google, Excel avançado e VBA.
+Participo de competições de machine learning do Kaggle (top 5% no desafio do titanic)
