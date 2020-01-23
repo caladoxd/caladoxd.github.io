@@ -3,7 +3,7 @@ title: "Kaggle Titanic Project"
 date: 2018
 tags: [kaggle, titanic, data science]
 header:
-  image: "/images/perceptron/zakim.jpg"
+  image: "/images/zakim.jpg"
 excerpt: "Data Science, Kaggle, Titanic Challenge"
 mathjax: "true"
 ---
