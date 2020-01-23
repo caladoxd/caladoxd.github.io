@@ -87,7 +87,7 @@ author:
   name             : "Fabiano Calado"
   avatar           : "/images/perfil.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Portfolio"
-  location         : "Brazil"
+  location         : "São Paulo, Brasil"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
