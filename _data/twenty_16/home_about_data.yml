@@ -1,25 +1,19 @@
 - inverted: 
   img: icon-about.jpeg
-  name: Theme, Vision, Mission
-  info: Read more about our Theme, Vision, and Mission
+  name: Formação
+  info: Bacharel em Ciência da Computação e Técnico em Eletromecânica
   link: "/2016/about"
 
 - inverted: timeline-inverted
   img: icon-agenda.jpeg
-  name: Agenda
-  info: Check out the agenda
+  name: Experiência
+  info: Ver currículo
   link: /2016/agenda
-
-- inverted: 
-  img: icon-team.jpeg
-  name: Team
-  info: Find out the team members
-  link: /2016/team
 
 - inverted: timeline-inverted
   img: icon-venue.jpeg
-  name: Venue
-  info: Learn more about our location
+  name: Localização
+  info: São Paulo
   link: /2016/venue
 
 - inverted: 
