@@ -2,7 +2,7 @@
   img: icon-about.jpeg
   name: Formação
   info: Bacharel em Ciência da Computação e Técnico em Eletromecânica
-  link: "/2016/curriculo"
+  link: /2017/curriculo
 
 - inverted: timeline-inverted
   img: icon-agenda.jpeg
@@ -14,7 +14,7 @@
   img: icon-venue.jpeg
   name: Localização
   info: São Paulo
-  link: /2016/curriculo
+  link: /2017/curriculo
 
 - inverted: 
   img: icon-faq.jpeg
