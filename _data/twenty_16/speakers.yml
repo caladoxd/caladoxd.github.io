@@ -1,24 +1,24 @@
-- title: Name
-  name: Name-1
-  subtitle: Position
+- title: Kaggle-Titanic
+  name: Titanic Data Science
+  subtitle: Top 5% no desafio
+  img: resultado-titanic.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of TBD
+  topic: Machine Learning
+  description: Detalhes
+
+- title: BI em nuvem
+  name: GoogleAPI
+  subtitle: BI com APIs google
   img: TBD.jpg
   thumbnail: TBD.jpg
   alt: Picture of TBD
   topic: Topic
   description: More Info
 
-- title: Name
-  name: Name-2
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
-
-- title: Name
-  name: Name-3
-  subtitle: Position
+- title: Kaggle-DataBowl
+  name: Kaggle
+  subtitle: Competição Data Science
   img: TBD.jpg
   thumbnail: TBD.jpg
   alt: Picture of TBD
