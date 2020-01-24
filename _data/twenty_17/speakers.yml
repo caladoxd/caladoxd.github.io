@@ -5,8 +5,8 @@
   thumbnail: titanic.jpg
   alt: Picture of TBD
   topic: Machine Learning
-  description: Dados retirados do desastre do titanic, com informações coletadas sobre os passageiros e quais sobreviveram. Após a análise dos dados para determinar as correlações, foi elaborado um modelo usando python para prever se um passageiro sobrevive ou não, baseado nos dados do banco de testes.
-  link: /
+  description: "Dados retirados do desastre do titanic, com informações coletadas sobre os passageiros e quais sobreviveram. Após a análise dos dados para determinar as correlações, foi elaborado um modelo usando python para prever se um passageiro sobrevive ou não, baseado nos dados do banco de testes."
+  
 
 - title: BI em nuvem
   name: GoogleAPI
