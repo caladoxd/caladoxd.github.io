@@ -21,7 +21,7 @@
   img: /api/resultados.jpg
   thumbnail: /api/evolucao.jpg
   alt: Picture of TBD
-  topic: Topic
+  topic: Business Intelligence
   description: 
 
 - title: Kaggle-DataScienceBowl
@@ -30,7 +30,7 @@
   img: TBD.jpg
   thumbnail: dsbowl.jpg
   alt: Picture of TBD
-  topic: Topic
+  topic: Data Science
   description: 
 
 
