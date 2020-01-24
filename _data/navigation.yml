@@ -1,9 +1,7 @@
 # main links
 main:
-  - title: "Sobre"
-    url: /about/
-  - title: "Data Science Projects"
-    url: /data-science/
+  - title: "Quick-Start Guide"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
