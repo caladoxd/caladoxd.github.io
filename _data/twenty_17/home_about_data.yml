@@ -2,13 +2,13 @@
   img: icon-about.jpeg
   name: Formação
   info: Bacharel em Ciência da Computação e Técnico em Eletromecânica
-  link: /2017/curriculo
+  link: /curriculo
 
 - inverted: timeline-inverted
   img: icon-agenda.jpeg
   name: Experiência
   info: Ver currículo
-  link: /2017/curriculo
+  link: /curriculo
 
 - inverted: 
   img: icon-faq.jpeg
