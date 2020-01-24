@@ -1,7 +1,7 @@
 - title: Kaggle-Titanic
   name: Titanic
   subtitle: Top 5% no desafio
-  img: TBD.jpg
+  img: resultado-titanic.jpg
   thumbnail: titanic.jpg
   alt: Picture of TBD
   topic: Machine Learning
@@ -11,8 +11,8 @@
 - title: BI em nuvem
   name: GoogleAPI
   subtitle: BI com APIs google
-  img: TBD.jpg
-  thumbnail: TBD.jpg
+  img: /api/resultados.jpg
+  thumbnail: /api/evolucao.jpg
   alt: Picture of TBD
   topic: Topic
   description: More Info
