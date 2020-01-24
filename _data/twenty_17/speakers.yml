@@ -2,7 +2,7 @@
   name: Titanic Data Science
   subtitle: Top 5% no desafio
   img: resultado-titanic.jpg
-  thumbnail: TBD.jpg
+  thumbnail: titanic.jpg
   alt: Picture of TBD
   topic: Machine Learning
   description: Detalhes
@@ -16,11 +16,11 @@
   topic: Topic
   description: More Info
 
-- title: Kaggle-DataBowl
+- title: Kaggle-DataScienceBowl
   name: Kaggle
   subtitle: Competição Data Science
   img: TBD.jpg
-  thumbnail: TBD.jpg
+  thumbnail: dsbowl.jpg
   alt: Picture of TBD
   topic: Topic
   description: More Info
