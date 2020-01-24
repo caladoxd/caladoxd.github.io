@@ -10,12 +10,6 @@
   info: Ver currículo
   link: /2017/curriculo
 
-- inverted: timeline-inverted
-  img: icon-venue.jpeg
-  name: Localização
-  info: São Paulo
-  link: /2017/curriculo
-
 - inverted: 
   img: icon-faq.jpeg
   name: Contato
