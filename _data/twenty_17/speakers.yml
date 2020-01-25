@@ -1,4 +1,4 @@
-- title: Kaggle-Titanic
+- title: Kaggle-Titanic (Python)
   name: Titanic
   subtitle: Top 5% no desafio
   img: resultado-titanic.jpg
@@ -15,7 +15,7 @@
  
   
 
-- title: BI+Cloud
+- title: BI+Cloud (JScript)
   name: GoogleAPI
   subtitle: BI com APIs google
   img: /api/resultados.jpg
@@ -34,7 +34,7 @@
       </legend>
       </fieldset>
 
-- title: Kaggle-DataScienceBowl
+- title: Kaggle-DataScienceBowl (R+SQL)
   name: Kaggle
   subtitle: Big Data Science
   img: TBD.jpg
