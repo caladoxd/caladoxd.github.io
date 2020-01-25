@@ -25,12 +25,12 @@
   description: |
       <fieldset>
       <legend>
-       <h1> Geração de insights com Data Science e automação de rotinas com google scripts </h1>
+       <h1> Data Science e automação de rotinas com google scripts </h1>
         <br><br>Esse projeto foi feito em partes:
         <br>1- Através das ordens de mercado dos traders que era exportado da plataforma de operações para um arquivo .csv, um script calculava o resultado mensal acumulado dos alunos, com atualização diária automática.
         <br>2- Várias atividades eram feitas pelos traders e registradas em planilhas no google drive, um outro script foi usado para ler as planilhas e calcular notas em cada categoria para os traders.
-        <br>3- Foi possível relacionar a eficiência das atividades com o desempenho no mercado real e o resultado foi apresentado aos traders.
-        <br>4- Um outro script era usado para ler todas as planilhas, gerar um relatório em PDF e enviar por email para os diretores semanalmente.        
+        <br>3- Foi possível relacionar a eficiência das atividades com o desempenho no mercado real e o insight foi apresentado aos traders.
+        <br>4- Um último script era usado para ler todas as planilhas, gerar um relatório em PDF e enviar por email para os diretores semanalmente.        
       </legend>
       </fieldset>
 
@@ -41,6 +41,6 @@
   thumbnail: dsbowl.jpg
   alt: Picture of TBD
   topic: Data Science
-  description: 
+  description: Em andamento
 
 
