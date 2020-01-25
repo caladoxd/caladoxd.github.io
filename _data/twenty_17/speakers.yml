@@ -3,7 +3,7 @@
   subtitle: Top 5% no desafio
   img: resultado-titanic.jpg
   thumbnail: titanic.jpg
-  alt: Picture of TBD
+  alt: Titanic
   topic: Machine Learning
   description: |
       <fieldset>
@@ -20,7 +20,7 @@
   subtitle: BI com APIs google
   img: /api/resultados.jpg
   thumbnail: /api/evolucao.jpg
-  alt: Picture of TBD
+  alt: Serverless
   topic: Business Intelligence
   description: |
       <fieldset>
@@ -37,10 +37,30 @@
 - title: Kaggle-DataScienceBowl (R+SQL)
   name: Kaggle
   subtitle: Big Data Science
-  img: TBD.jpg
+  img: 
   thumbnail: dsbowl.jpg
   alt: Picture of TBD
   topic: Data Science
   description: Em andamento
+
+- title: Caixeiro viajante (Java)
+  name: Problema do caixeiro viajante
+  subtitle: Inteligência Artificial
+  img: 
+  thumbnail: TSP.jpg
+  alt: Problema de 225 cidades
+  topic: Inteligência Artificial
+  description: |
+      <fieldset>
+      <legend>   
+        <br><br>Foi feito um estudo sobre diferentes técnicas para o problema do caixeiro viajante, o problema mais famoso que envolve complexidade de ordem fatorial.
+        <br>Implementei 2 algoritmos genéticos, 1 rede neural e 1 algoritmo heurístico para comparar o desempenho no problema.
+        <br>Os algoritmos genéticos envolviam um operador EER (Enhanced Edge Recombination) e um guloso (desenvolvido por mim), cada um com uma técnica de cruzamento diferente.
+        <br>Para a rede neural, usei o mapa de Kohonen, uma rede auto organizável, de aprendizagem não supervisionada.
+        <br>O algoritmo heurístico de Lin-Kernighan é o mais famoso para o problema, com tempos de execução inigualáveis. Foi usado para otimizar os algoritmos genéticos posteriormente. 
+        <br>No teste, o algoritmo que desenvolvi (com população aleatória, cruzamento com operador guloso e otimização Lin-Kernighan) foi o que obteve os melhores resultados na comparação. 
+        <br><br><a href="http://dx.doi.org/10.18674/exacta.v4i1.304">Artigo publicado na revista E-xacta, v.4, n.1</a>
+      </legend>
+      </fieldset>
 
 
