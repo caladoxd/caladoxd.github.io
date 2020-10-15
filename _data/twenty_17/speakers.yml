@@ -74,7 +74,7 @@
       <fieldset>
       <legend>
        <h1> Interface para APIs com autenticação via servidor </h1>
-        <br><br>Esse desafio foi feito em 24h;
+        <br><br>Esse desafio foi feito em 24h:
         <br>O front-end é uma página com entrada para comunicação com o bot, com chamadas em Ajax para o envio de mensagens e atualização dinâmica com Vue.js.
         <br>No back-end, é feita toda a autenticação e comunicação com o servidor no PHP através da API do bot.
         <br>Além da comunicação com o bot, há também o armazenamento das mensagens (Vue.js) e comunicação com a pokeapi utilizando também o Ajax.
