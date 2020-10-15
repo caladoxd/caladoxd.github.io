@@ -62,3 +62,21 @@
         <br><br><a href="http://dx.doi.org/10.18674/exacta.v4i1.304" target="_blank">Artigo publicado na revista E-xacta, v.4, n.1</a>
       </legend>
       </fieldset>
+      
+  - title: Chatbot challenge (JS, Ajax, PHP, Vue.js)
+  name: Yodabot
+  subtitle: Interface com comunicação com APIs server side
+  img: 
+  thumbnail: yodabot.jpg
+  alt: Fullstack
+  topic: Fullstack dev
+  description: |
+      <fieldset>
+      <legend>
+       <h1> Interface para APIs com autenticação via servidor </h1>
+        <br><br>Esse desafio foi feito em 24h;
+        <br>O front-end é uma página com entrada para comunicação com o bot, com chamadas em Ajax para o envio de mensagens e atualização dinâmica com Vue.js.
+        <br>No back-end, é feita toda a autenticação e comunicação com o servidor no PHP através da API do bot.
+        <br>Além da comunicação com o bot, há também o armazenamento das mensagens (Vue.js) e comunicação com a pokeapi utilizando também o Ajax.
+      </legend>
+      </fieldset>
